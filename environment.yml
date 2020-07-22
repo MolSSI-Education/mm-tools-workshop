@@ -10,3 +10,4 @@ dependencies:
   - pandas
   - nglview
   - mdtraj
+  - openmm
