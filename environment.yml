@@ -1,0 +1,12 @@
+name: openmm
+
+channels:
+  - conda-forge
+  - omnia
+
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - nglview
+  - mdtraj
