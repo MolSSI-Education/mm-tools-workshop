@@ -1,8 +1,7 @@
-name: openmm
+name: mm-tools
 
 channels:
   - conda-forge
-  - omnia
 
 dependencies:
   - matplotlib
@@ -11,3 +10,4 @@ dependencies:
   - nglview
   - mdtraj
   - openmm
+  - jupyterlab
